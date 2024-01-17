@@ -10,6 +10,6 @@
 
 🌟 Passionate about turning ideas into elegant and efficient code. Let's connect and create something amazing together! 
 
-📫 Reach out to me on [LinkedIn][(https://www.linkedin.com/in/pedromargonz/)].
+📫 Reach out to me on [LinkedIn](https://www.linkedin.com/in/pedromargonz/).
 
 Happy coding! 🚀✨
