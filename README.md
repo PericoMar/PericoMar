@@ -1,4 +1,4 @@
-### 👋 Hello World! I'm Pedro Martínez González
+### 👋 Hello! I'm Pedro Martínez González
 
 🎓 Graduated in Web Development, I hold a degree in crafting awesome web applications. 
 
