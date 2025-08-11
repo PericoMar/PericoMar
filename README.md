@@ -1,16 +1,21 @@
 ###  Hello! I'm Pedro Martínez González
 
-🎓 Graduated in Web Development, I hold a degree in crafting awesome web applications. 
+Full-Stack Software Developer
+I architect, build, and scale web and mobile applications from scratch to production, blending clean architecture with high-impact business outcomes. My work ranges from single-page applications and RESTful APIs to hardware-integrated solutions — always focused on reliability, performance, and maintainability.
 
-🚀 My journey involves mastering various technologies, and my GitHub is a testament to the code I've brewed:
+Key Highlights
 
-👨‍💻 Check out my repositories for projects showcasing my skills in:
-   - Frontend: HTML, CSS, JavaScript, Angular
-   - Backend: Node.js, Express, MongoDB
+End-to-End Product Delivery – Shipped production-ready platforms from initial concept to deployment, ensuring code quality, scalability, and future-proof design.
 
-Passionate about turning ideas into elegant and efficient code. Let's connect and create something amazing together! 
+Hardware-Integrated Solutions – Developed self-service kiosks with peripherals integration and queue-management systems, deployed on time and within budget.
 
-Reach out to me on [LinkedIn](https://www.linkedin.com/in/pedromargonz/).
+High-Value Dashboards – Built real-time executive dashboards that cut manual reporting, enabling instant, data-driven decision-making.
 
-<p align="left"> <a href="https://angular.io" target="_blank" rel="noreferrer"> <img src="https://angular.io/assets/images/logos/angular/angular.svg" alt="angular" width="40" height="40"/> </a> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> </p>
-Happy coding! 🚀✨
+Payment Systems Expertise – Integrated Dojo and Redsys APIs (terminals, web gateway, recurring payments) with full PCI-DSS/SCA compliance, tokenisation, and webhook orchestration.
+
+Security & Architecture – Designed robust role-based permissions with Laravel Sanctum and custom policies, laying the foundation for microservices and single-sign-on.
+
+DevOps & Automation – Established containerised CI/CD pipelines (Docker + GitHub Actions) to automate testing, enforce code-quality gates, and accelerate release cycles.
+
+Technical Toolbox
+Angular · Laravel · Node.js · React Native · SQL Server/MySQL · Docker · GitHub Actions · Azure DevOps
